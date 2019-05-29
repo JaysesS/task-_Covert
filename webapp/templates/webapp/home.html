@@ -1,0 +1,85 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <title>Task - {{title}}</title>
+      <!-- Init Firebase -->
+      <script src="https://www.gstatic.com/firebasejs/6.0.4/firebase-app.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/6.0.4/firebase-auth.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/6.0.4/firebase-database.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/6.0.4/firebase-firestore.js"></script>
+      <!-- Init static files -->
+      <script src="{% static 'webapp/home.js' %}"></script>
+      <script src="{% static 'webapp/Chart.min.js' %}"></script>
+      <!-- Run home.js -->
+      <script>init()</script>
+</head>
+<style>
+      body {
+        background-color: #F0FFFF;
+      }
+      .container {
+
+          padding-top: 5vh;
+          display: flex;
+          justify-content: center;
+          flex-direction: column;
+          align-items: center;
+          font-size: 2vh;
+          font-family: "Roboto Mono", monospace;
+      }
+
+      .charts {
+          align-self: center;
+          padding-top: 5vh;
+          display: flex;
+          justify-content: space-around;
+          flex-direction: row;
+          flex-wrap: wrap;
+      }
+
+      .charts div{
+          padding-top: 50px;
+      }
+
+      .restartButton {
+          align-self: center;
+          padding-top: 3vh;
+      }
+
+      .data {
+          padding-top: 3vh;
+      }
+
+      @media (max-width: 600px) and (max-height: 600px) {
+        
+        .container {
+            font-size: 10px;
+        }
+
+      }
+</style>
+<body>
+      <div class="container">
+        <div>
+            <div id="infoToHardFork">
+                <!-- Timer to hardfork here -->
+            </div>
+            <div id="infoAboutStatusMonitoring">
+                <!-- Info about monitoring -->
+            </div>
+            <div class="data" id="list">
+                <!-- Monitoring here -->
+            </div>
+        </div> 
+        <div class="restartButton">
+            <a href="{% url 'webapp-start' %}">RESTART</a>
+        </div>
+      </div>
+      <div class="charts" id="charts">
+            <!-- Charts here -->
+      </div>  
+</body>
+</html>

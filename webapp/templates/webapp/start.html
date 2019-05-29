@@ -1,0 +1,79 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Task - {{title}}</title>
+</head>
+<style>
+    body {
+        background-color: #F0FFFF;
+    }
+
+    .container {
+        padding-top: 5vh;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        font-family: "Roboto Mono", monospace;
+    }
+
+    .inputTime {
+        width: 25vw;
+        height: 5vh;
+        font-size: 3vh;
+    }
+
+    .buttonStart {
+        width: 10vw;
+        height: 7vh;
+        font-size: 3vh;
+    }
+
+    .timeToHFDiv {
+        padding-bottom: 2vh;
+        font-size: 2vw;
+    }
+
+    .inputTimeDiv {
+        padding-bottom: 2vh;
+    }
+
+    @media (max-width: 800px) and (max-height: 800px) {
+
+        .timeToHFDiv {
+            font-size: 15px;
+        }
+
+        .inputTime {
+            width: 160px;
+            height: 15px;
+            font-size: 10px;
+        }
+
+        .buttonStart {
+            width: 75px;
+            height: 30px;
+            font-size: 8px;
+        }
+    }
+</style>
+<body>
+    <form action="home" method="post">
+        {% csrf_token %}
+        <div class="container">
+            <div class="timeToHFDiv">
+                Input time to hardfork <font size="3">(in sec, max 999999)</font>
+            </div>
+            <div class="inputTimeDiv">
+                <input class="inputTime" value="1" min="1" max="999999" type="number" name="timeTohardfork">
+            </div>
+            <div>
+                <button class="buttonStart" type="submit">Start</button>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

@@ -90,38 +90,37 @@ class TaskLogic:
             priceUsdChange = self.getPriceUsdChange24()
             transactionFeeUsd = self.getTransactionFeeUsd24()
 
-            # If an error occurs in retrieving data
-            if ((priceUsd is None) or 
-                (mempool_transactions is None) or
-                (transactions24 is None) or 
-                (transactions is None) or 
-                (volume is None) or 
-                (priceUsdChange is None) or 
-                (transactionFeeUsd is None)):
+            args = [priceUsd, mempool_transactions, transactions24, transactions, volume, priceUsdChange, transactionFeeUsd]
 
-                time.sleep(self.refreshBadStatsRate)
-
-            # If data is received
-            if ((priceUsd is not None) and 
-                (mempool_transactions is not None) and 
-                (transactions24 is not None) and 
-                (transactions is not None) and 
-                (volume is not None) and 
-                (priceUsdChange is not None) and 
-                (transactionFeeUsd is not None)):
-
-                args = [priceUsd, mempool_transactions, transactions24, transactions, volume, priceUsdChange, transactionFeeUsd]
+            if (self.checkVariblesIsNotIsNone(args)):
+                
+                # Updating values in the database
                 self.database.UpdateChild("info", args)
 
                 # Check and if true means data is written to history
                 if (int(time.time()) - self.unixSaveHistory >= self.saveHistoryRate):
                     self.unixSaveHistory = int(time.time())
                     self.database.setHistory(args)
+                
+                # Delay if all is well
                 time.sleep(self.refreshStatsRate)
+
+            else :
+                
+                # Delay if all is bad
+                time.sleep(self.refreshBadStatsRate)
 
             # Check for hardfork, if true then the data acquisition cycle stops
             if (self.endTime <= int(datetime.timestamp(datetime.now()))):
                 break
+
+    # Check that none of the variables received with the api value is None
+    def checkVariblesIsNotIsNone(self, args):
+        for i in args:
+            if (i is None):
+                return False
+        
+        return True
 
     # Starts the information retrieval cycle
     def startLoop(self):

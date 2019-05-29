@@ -1,0 +1,2246 @@
+{
+  "history" : {
+    "1559051608" : {
+      "mempoolTransactions" : 464,
+      "priceUsd" : 429.01,
+      "priceUsdChange" : -1.59059,
+      "transactionFeeUsd" : 0.0011754874,
+      "transactions" : 272535800,
+      "transactions24" : 55800,
+      "volume" : 881608177063438
+    },
+    "1559051709" : {
+      "mempoolTransactions" : 524,
+      "priceUsd" : 429.01,
+      "priceUsdChange" : -1.59059,
+      "transactionFeeUsd" : 0.0011754874,
+      "transactions" : 272535800,
+      "transactions24" : 55800,
+      "volume" : 881608177063438
+    },
+    "1559051773" : {
+      "mempoolTransactions" : 560,
+      "priceUsd" : 429.954,
+      "priceUsdChange" : -1.28292,
+      "transactionFeeUsd" : 0.00117807396,
+      "transactions" : 272535800,
+      "transactions24" : 55800,
+      "volume" : 881608177063438
+    },
+    "1559051842" : {
+      "mempoolTransactions" : 599,
+      "priceUsd" : 429.954,
+      "priceUsdChange" : -1.28292,
+      "transactionFeeUsd" : 0.00117807396,
+      "transactions" : 272535800,
+      "transactions24" : 55800,
+      "volume" : 881608177063438
+    },
+    "1559051954" : {
+      "mempoolTransactions" : 135,
+      "priceUsd" : 429.954,
+      "priceUsdChange" : -1.28292,
+      "transactionFeeUsd" : 0.00117807396,
+      "transactions" : 272536357,
+      "transactions24" : 56357,
+      "volume" : 886559913326263
+    },
+    "1559052197" : {
+      "mempoolTransactions" : 319,
+      "priceUsd" : 429.072,
+      "priceUsdChange" : -1.39904,
+      "transactionFeeUsd" : 0.00117565728,
+      "transactions" : 272536357,
+      "transactions24" : 56357,
+      "volume" : 886559913326263
+    },
+    "1559052349" : {
+      "mempoolTransactions" : 393,
+      "priceUsd" : 429.177,
+      "priceUsdChange" : -1.2494,
+      "transactionFeeUsd" : 0.0011759449800000002,
+      "transactions" : 272536357,
+      "transactions24" : 55572,
+      "volume" : 876677528043239
+    },
+    "1559052396" : {
+      "mempoolTransactions" : 421,
+      "priceUsd" : 429.177,
+      "priceUsdChange" : -1.2494,
+      "transactionFeeUsd" : 0.0011759449800000002,
+      "transactions" : 272536357,
+      "transactions24" : 55572,
+      "volume" : 876677528043239
+    },
+    "1559052483" : {
+      "mempoolTransactions" : 462,
+      "priceUsd" : 429.177,
+      "priceUsdChange" : -1.2494,
+      "transactionFeeUsd" : 0.0011759449800000002,
+      "transactions" : 272536357,
+      "transactions24" : 55411,
+      "volume" : 876584825502934
+    },
+    "1559052506" : {
+      "mempoolTransactions" : 477,
+      "priceUsd" : 429.177,
+      "priceUsdChange" : -1.2494,
+      "transactionFeeUsd" : 0.0011759449800000002,
+      "transactions" : 272536357,
+      "transactions24" : 55411,
+      "volume" : 876584825502934
+    },
+    "1559052576" : {
+      "mempoolTransactions" : 505,
+      "priceUsd" : 429.177,
+      "priceUsdChange" : -1.2494,
+      "transactionFeeUsd" : 0.0011759449800000002,
+      "transactions" : 272536357,
+      "transactions24" : 55411,
+      "volume" : 876584825502934
+    },
+    "1559052634" : {
+      "mempoolTransactions" : 83,
+      "priceUsd" : 429.223,
+      "priceUsdChange" : -1.09307,
+      "transactionFeeUsd" : 0.00117607102,
+      "transactions" : 272536831,
+      "transactions24" : 55885,
+      "volume" : 877891467954197
+    },
+    "1559052675" : {
+      "mempoolTransactions" : 106,
+      "priceUsd" : 429.223,
+      "priceUsdChange" : -1.09307,
+      "transactionFeeUsd" : 0.00117607102,
+      "transactions" : 272536831,
+      "transactions24" : 55885,
+      "volume" : 877891467954197
+    },
+    "1559052745" : {
+      "mempoolTransactions" : 150,
+      "priceUsd" : 429.223,
+      "priceUsdChange" : -1.09307,
+      "transactionFeeUsd" : 0.00117607102,
+      "transactions" : 272536831,
+      "transactions24" : 55885,
+      "volume" : 877891467954197
+    },
+    "1559052807" : {
+      "mempoolTransactions" : 168,
+      "priceUsd" : 429.223,
+      "priceUsdChange" : -1.09307,
+      "transactionFeeUsd" : 0.00117607102,
+      "transactions" : 272536831,
+      "transactions24" : 55885,
+      "volume" : 877891467954197
+    },
+    "1559052877" : {
+      "mempoolTransactions" : 202,
+      "priceUsd" : 429.223,
+      "priceUsdChange" : -1.09307,
+      "transactionFeeUsd" : 0.00117607102,
+      "transactions" : 272536831,
+      "transactions24" : 55885,
+      "volume" : 877891467954197
+    },
+    "1559052950" : {
+      "mempoolTransactions" : 245,
+      "priceUsd" : 429.075,
+      "priceUsdChange" : -1.07284,
+      "transactionFeeUsd" : 0.0011756655,
+      "transactions" : 272536831,
+      "transactions24" : 55885,
+      "volume" : 877891467954197
+    },
+    "1559052992" : {
+      "mempoolTransactions" : 262,
+      "priceUsd" : 429.075,
+      "priceUsdChange" : -1.07284,
+      "transactionFeeUsd" : 0.0011756655,
+      "transactions" : 272536831,
+      "transactions24" : 55885,
+      "volume" : 877891467954197
+    },
+    "1559053143" : {
+      "mempoolTransactions" : 338,
+      "priceUsd" : 429.075,
+      "priceUsdChange" : -1.07284,
+      "transactionFeeUsd" : 0.0011756655,
+      "transactions" : 272536831,
+      "transactions24" : 55885,
+      "volume" : 877891467954197
+    },
+    "1559053212" : {
+      "mempoolTransactions" : 382,
+      "priceUsd" : 429.075,
+      "priceUsdChange" : -1.07284,
+      "transactionFeeUsd" : 0.0011756655,
+      "transactions" : 272536831,
+      "transactions24" : 55885,
+      "volume" : 877891467954197
+    },
+    "1559053400" : {
+      "mempoolTransactions" : 502,
+      "priceUsd" : 429.066,
+      "priceUsdChange" : -1.18019,
+      "transactionFeeUsd" : 0.00117564084,
+      "transactions" : 272536831,
+      "transactions24" : 55885,
+      "volume" : 877891467954197
+    },
+    "1559053539" : {
+      "mempoolTransactions" : 576,
+      "priceUsd" : 430.102,
+      "priceUsdChange" : -1.07722,
+      "transactionFeeUsd" : 0.0011784794799999999,
+      "transactions" : 272536831,
+      "transactions24" : 55238,
+      "volume" : 872846849497804
+    },
+    "1559053574" : {
+      "mempoolTransactions" : 593,
+      "priceUsd" : 430.102,
+      "priceUsdChange" : -1.07722,
+      "transactionFeeUsd" : 0.0011784794799999999,
+      "transactions" : 272536831,
+      "transactions24" : 55238,
+      "volume" : 872846849497804
+    },
+    "1559053971" : {
+      "mempoolTransactions" : 796,
+      "priceUsd" : 430.243,
+      "priceUsdChange" : -1.00071,
+      "transactionFeeUsd" : 0.00117886582,
+      "transactions" : 272536831,
+      "transactions24" : 55238,
+      "volume" : 872846849497804
+    },
+    "1559054109" : {
+      "mempoolTransactions" : 864,
+      "priceUsd" : 430.243,
+      "priceUsdChange" : -1.00071,
+      "transactionFeeUsd" : 0.00117886582,
+      "transactions" : 272536831,
+      "transactions24" : 54888,
+      "volume" : 871566543243682
+    },
+    "1559054228" : {
+      "mempoolTransactions" : 914,
+      "priceUsd" : 430.027,
+      "priceUsdChange" : -1.06896,
+      "transactionFeeUsd" : 0.00117827398,
+      "transactions" : 272536831,
+      "transactions24" : 54888,
+      "volume" : 871566543243682
+    },
+    "1559057438" : {
+      "mempoolTransactions" : 97,
+      "priceUsd" : 430.602,
+      "priceUsdChange" : -2.41778,
+      "transactionFeeUsd" : 0.00117984948,
+      "transactions" : 272539434,
+      "transactions24" : 54809,
+      "volume" : 898892335359757
+    },
+    "1559057666" : {
+      "mempoolTransactions" : 224,
+      "priceUsd" : 430.602,
+      "priceUsdChange" : -2.41778,
+      "transactionFeeUsd" : 0.00117984948,
+      "transactions" : 272539442,
+      "transactions24" : 54817,
+      "volume" : 898893710603424
+    },
+    "1559057710" : {
+      "mempoolTransactions" : 243,
+      "priceUsd" : 430.602,
+      "priceUsdChange" : -2.41778,
+      "transactionFeeUsd" : 0.00117984948,
+      "transactions" : 272539442,
+      "transactions24" : 54817,
+      "volume" : 898893710603424
+    },
+    "1559057730" : {
+      "mempoolTransactions" : 254,
+      "priceUsd" : 430.841,
+      "priceUsdChange" : -2.17632,
+      "transactionFeeUsd" : 0.0011805043400000001,
+      "transactions" : 272539442,
+      "transactions24" : 54817,
+      "volume" : 898893710603424
+    },
+    "1559057769" : {
+      "mempoolTransactions" : 279,
+      "priceUsd" : 430.841,
+      "priceUsdChange" : -2.17632,
+      "transactionFeeUsd" : 0.0011805043400000001,
+      "transactions" : 272539442,
+      "transactions24" : 54817,
+      "volume" : 898893710603424
+    },
+    "1559057906" : {
+      "mempoolTransactions" : 333,
+      "priceUsd" : 430.841,
+      "priceUsdChange" : -2.17632,
+      "transactionFeeUsd" : 0.0011805043400000001,
+      "transactions" : 272539442,
+      "transactions24" : 54817,
+      "volume" : 898893710603424
+    },
+    "1559058450" : {
+      "mempoolTransactions" : 253,
+      "priceUsd" : 431.561,
+      "priceUsdChange" : -2.55383,
+      "transactionFeeUsd" : 0.00118247714,
+      "transactions" : 272539832,
+      "transactions24" : 55207,
+      "volume" : 900225188986009
+    },
+    "1559058979" : {
+      "mempoolTransactions" : 335,
+      "priceUsd" : 432.469,
+      "priceUsdChange" : -1.85811,
+      "transactionFeeUsd" : 0.00118496506,
+      "transactions" : 272540120,
+      "transactions24" : 55495,
+      "volume" : 900349508515704
+    },
+    "1559059006" : {
+      "mempoolTransactions" : 360,
+      "priceUsd" : 432.469,
+      "priceUsdChange" : -1.85811,
+      "transactionFeeUsd" : 0.00118496506,
+      "transactions" : 272540120,
+      "transactions24" : 55495,
+      "volume" : 900349508515704
+    },
+    "1559059110" : {
+      "mempoolTransactions" : 443,
+      "priceUsd" : 432.469,
+      "priceUsdChange" : -1.85811,
+      "transactionFeeUsd" : 0.00118496506,
+      "transactions" : 272540120,
+      "transactions24" : 55495,
+      "volume" : 900349508515704
+    },
+    "1559063345" : {
+      "mempoolTransactions" : 319,
+      "priceUsd" : 430.299,
+      "priceUsdChange" : 0.39359,
+      "transactionFeeUsd" : 0.00117901926,
+      "transactions" : 272543167,
+      "transactions24" : 53146,
+      "volume" : 917046411969611
+    },
+    "1559063391" : {
+      "mempoolTransactions" : 352,
+      "priceUsd" : 430.299,
+      "priceUsdChange" : 0.39359,
+      "transactionFeeUsd" : 0.00117901926,
+      "transactions" : 272543167,
+      "transactions24" : 53146,
+      "volume" : 917046411969611
+    },
+    "1559063460" : {
+      "mempoolTransactions" : 410,
+      "priceUsd" : 430.299,
+      "priceUsdChange" : 0.39359,
+      "transactionFeeUsd" : 0.00117901926,
+      "transactions" : 272543167,
+      "transactions24" : 53146,
+      "volume" : 917046411969611
+    },
+    "1559063535" : {
+      "mempoolTransactions" : 53,
+      "priceUsd" : 430.299,
+      "priceUsdChange" : 0.39359,
+      "transactionFeeUsd" : 0.00117901926,
+      "transactions" : 272543584,
+      "transactions24" : 53563,
+      "volume" : 918280188177032
+    },
+    "1559063605" : {
+      "mempoolTransactions" : 93,
+      "priceUsd" : 430.299,
+      "priceUsdChange" : 0.39359,
+      "transactionFeeUsd" : 0.00117901926,
+      "transactions" : 272543584,
+      "transactions24" : 53563,
+      "volume" : 918280188177032
+    },
+    "1559063675" : {
+      "mempoolTransactions" : 148,
+      "priceUsd" : 430.299,
+      "priceUsdChange" : 0.39359,
+      "transactionFeeUsd" : 0.00117901926,
+      "transactions" : 272543584,
+      "transactions24" : 53563,
+      "volume" : 918280188177032
+    },
+    "1559063745" : {
+      "mempoolTransactions" : 207,
+      "priceUsd" : 431.22,
+      "priceUsdChange" : 0.11662,
+      "transactionFeeUsd" : 0.0011815428,
+      "transactions" : 272543584,
+      "transactions24" : 53563,
+      "volume" : 918280188177032
+    },
+    "1559063830" : {
+      "mempoolTransactions" : 295,
+      "priceUsd" : 431.22,
+      "priceUsdChange" : 0.11662,
+      "transactionFeeUsd" : 0.0011815428,
+      "transactions" : 272543584,
+      "transactions24" : 53563,
+      "volume" : 918280188177032
+    },
+    "1559063890" : {
+      "mempoolTransactions" : 329,
+      "priceUsd" : 431.22,
+      "priceUsdChange" : 0.11662,
+      "transactionFeeUsd" : 0.0011815428,
+      "transactions" : 272543584,
+      "transactions24" : 53563,
+      "volume" : 918280188177032
+    },
+    "1559063959" : {
+      "mempoolTransactions" : 365,
+      "priceUsd" : 431.22,
+      "priceUsdChange" : 0.11662,
+      "transactionFeeUsd" : 0.0011815428,
+      "transactions" : 272543584,
+      "transactions24" : 53563,
+      "volume" : 918280188177032
+    },
+    "1559064029" : {
+      "mempoolTransactions" : 415,
+      "priceUsd" : 431.97,
+      "priceUsdChange" : 0.45581,
+      "transactionFeeUsd" : 0.0011835978,
+      "transactions" : 272543584,
+      "transactions24" : 53563,
+      "volume" : 918280188177032
+    },
+    "1559064089" : {
+      "mempoolTransactions" : 461,
+      "priceUsd" : 431.97,
+      "priceUsdChange" : 0.45581,
+      "transactionFeeUsd" : 0.0011835978,
+      "transactions" : 272543584,
+      "transactions24" : 53563,
+      "volume" : 918280188177032
+    },
+    "1559064158" : {
+      "mempoolTransactions" : 512,
+      "priceUsd" : 431.97,
+      "priceUsdChange" : 0.45581,
+      "transactionFeeUsd" : 0.0011835978,
+      "transactions" : 272543584,
+      "transactions24" : 52812,
+      "volume" : 915367177610440
+    },
+    "1559064244" : {
+      "mempoolTransactions" : 571,
+      "priceUsd" : 431.97,
+      "priceUsdChange" : 0.45581,
+      "transactionFeeUsd" : 0.0011835978,
+      "transactions" : 272543584,
+      "transactions24" : 52812,
+      "volume" : 915367177610440
+    },
+    "1559064314" : {
+      "mempoolTransactions" : 616,
+      "priceUsd" : 431.97,
+      "priceUsdChange" : 0.45581,
+      "transactionFeeUsd" : 0.0011835978,
+      "transactions" : 272543584,
+      "transactions24" : 52812,
+      "volume" : 915367177610440
+    },
+    "1559064384" : {
+      "mempoolTransactions" : 676,
+      "priceUsd" : 433.34,
+      "priceUsdChange" : 0.84657,
+      "transactionFeeUsd" : 0.0011873515999999999,
+      "transactions" : 272543584,
+      "transactions24" : 52812,
+      "volume" : 915367177610440
+    },
+    "1559064454" : {
+      "mempoolTransactions" : 729,
+      "priceUsd" : 433.34,
+      "priceUsdChange" : 0.84657,
+      "transactionFeeUsd" : 0.0011873515999999999,
+      "transactions" : 272543584,
+      "transactions24" : 52812,
+      "volume" : 915367177610440
+    },
+    "1559064518" : {
+      "mempoolTransactions" : 776,
+      "priceUsd" : 433.34,
+      "priceUsdChange" : 0.84657,
+      "transactionFeeUsd" : 0.0011873515999999999,
+      "transactions" : 272543584,
+      "transactions24" : 52812,
+      "volume" : 915367177610440
+    },
+    "1559064603" : {
+      "mempoolTransactions" : 826,
+      "priceUsd" : 433.34,
+      "priceUsdChange" : 0.84657,
+      "transactionFeeUsd" : 0.0011873515999999999,
+      "transactions" : 272543584,
+      "transactions24" : 52812,
+      "volume" : 915367177610440
+    },
+    "1559064663" : {
+      "mempoolTransactions" : 879,
+      "priceUsd" : 434.667,
+      "priceUsdChange" : 1.00032,
+      "transactionFeeUsd" : 0.00119098758,
+      "transactions" : 272543584,
+      "transactions24" : 52812,
+      "volume" : 915367177610440
+    },
+    "1559064724" : {
+      "mempoolTransactions" : 926,
+      "priceUsd" : 434.667,
+      "priceUsdChange" : 1.00032,
+      "transactionFeeUsd" : 0.00119098758,
+      "transactions" : 272543584,
+      "transactions24" : 52812,
+      "volume" : 915367177610440
+    },
+    "1559064794" : {
+      "mempoolTransactions" : 979,
+      "priceUsd" : 434.667,
+      "priceUsdChange" : 1.00032,
+      "transactionFeeUsd" : 0.00119098758,
+      "transactions" : 272543584,
+      "transactions24" : 52291,
+      "volume" : 910021768879796
+    },
+    "1559064864" : {
+      "mempoolTransactions" : 1030,
+      "priceUsd" : 434.667,
+      "priceUsdChange" : 1.00032,
+      "transactionFeeUsd" : 0.00119098758,
+      "transactions" : 272543584,
+      "transactions24" : 52291,
+      "volume" : 910021768879796
+    },
+    "1559064913" : {
+      "mempoolTransactions" : 1073,
+      "priceUsd" : 434.667,
+      "priceUsdChange" : 1.00032,
+      "transactionFeeUsd" : 0.00119098758,
+      "transactions" : 272543584,
+      "transactions24" : 52198,
+      "volume" : 909907705589444
+    },
+    "1559065003" : {
+      "mempoolTransactions" : 1139,
+      "priceUsd" : 435.946,
+      "priceUsdChange" : 1.43317,
+      "transactionFeeUsd" : 0.0011944920400000002,
+      "transactions" : 272543584,
+      "transactions24" : 52198,
+      "volume" : 909907705589444
+    },
+    "1559065091" : {
+      "mempoolTransactions" : 1209,
+      "priceUsd" : 435.946,
+      "priceUsdChange" : 1.43317,
+      "transactionFeeUsd" : 0.0011944920400000002,
+      "transactions" : 272543584,
+      "transactions24" : 52198,
+      "volume" : 909907705589444
+    },
+    "1559065232" : {
+      "mempoolTransactions" : 39,
+      "priceUsd" : 437.096,
+      "priceUsdChange" : 2.1681,
+      "transactionFeeUsd" : 0.00119764304,
+      "transactions" : 272544940,
+      "transactions24" : 53380,
+      "volume" : 914440703621063
+    },
+    "1559065296" : {
+      "mempoolTransactions" : 125,
+      "priceUsd" : 437.096,
+      "priceUsdChange" : 2.1681,
+      "transactionFeeUsd" : 0.00119764304,
+      "transactions" : 272544940,
+      "transactions24" : 53380,
+      "volume" : 914440703621063
+    },
+    "1559065356" : {
+      "mempoolTransactions" : 183,
+      "priceUsd" : 437.096,
+      "priceUsdChange" : 2.1681,
+      "transactionFeeUsd" : 0.00119764304,
+      "transactions" : 272544940,
+      "transactions24" : 53380,
+      "volume" : 914440703621063
+    },
+    "1559065441" : {
+      "mempoolTransactions" : 252,
+      "priceUsd" : 437.096,
+      "priceUsdChange" : 2.1681,
+      "transactionFeeUsd" : 0.00119764304,
+      "transactions" : 272544940,
+      "transactions24" : 53380,
+      "volume" : 914440703621063
+    },
+    "1559065519" : {
+      "mempoolTransactions" : 310,
+      "priceUsd" : 437.096,
+      "priceUsdChange" : 2.1681,
+      "transactionFeeUsd" : 0.00119764304,
+      "transactions" : 272544940,
+      "transactions24" : 53380,
+      "volume" : 914440703621063
+    },
+    "1559065589" : {
+      "mempoolTransactions" : 84,
+      "priceUsd" : 437.03,
+      "priceUsdChange" : 2.16945,
+      "transactionFeeUsd" : 0.0011974622,
+      "transactions" : 272545230,
+      "transactions24" : 53670,
+      "volume" : 916124719060333
+    },
+    "1559065658" : {
+      "mempoolTransactions" : 141,
+      "priceUsd" : 437.03,
+      "priceUsdChange" : 2.16945,
+      "transactionFeeUsd" : 0.0011974622,
+      "transactions" : 272545230,
+      "transactions24" : 53670,
+      "volume" : 916124719060333
+    },
+    "1559065693" : {
+      "mempoolTransactions" : 165,
+      "priceUsd" : 437.03,
+      "priceUsdChange" : 2.16945,
+      "transactionFeeUsd" : 0.0011974622,
+      "transactions" : 272545230,
+      "transactions24" : 53670,
+      "volume" : 916124719060333
+    },
+    "1559065763" : {
+      "mempoolTransactions" : 219,
+      "priceUsd" : 437.03,
+      "priceUsdChange" : 2.16945,
+      "transactionFeeUsd" : 0.0011974622,
+      "transactions" : 272545230,
+      "transactions24" : 53670,
+      "volume" : 916124719060333
+    },
+    "1559065777" : {
+      "mempoolTransactions" : 225,
+      "priceUsd" : 437.03,
+      "priceUsdChange" : 2.16945,
+      "transactionFeeUsd" : 0.0011974622,
+      "transactions" : 272545230,
+      "transactions24" : 53670,
+      "volume" : 916124719060333
+    },
+    "1559065818" : {
+      "mempoolTransactions" : 284,
+      "priceUsd" : 437.03,
+      "priceUsdChange" : 2.16945,
+      "transactionFeeUsd" : 0.0011974622,
+      "transactions" : 272545230,
+      "transactions24" : 53670,
+      "volume" : 916124719060333
+    },
+    "1559065972" : {
+      "mempoolTransactions" : 385,
+      "priceUsd" : 435.663,
+      "priceUsdChange" : 1.80356,
+      "transactionFeeUsd" : 0.00119371662,
+      "transactions" : 272545230,
+      "transactions24" : 53121,
+      "volume" : 914603679704632
+    },
+    "1559066050" : {
+      "mempoolTransactions" : 443,
+      "priceUsd" : 435.663,
+      "priceUsdChange" : 1.80356,
+      "transactionFeeUsd" : 0.00119371662,
+      "transactions" : 272545230,
+      "transactions24" : 53121,
+      "volume" : 914603679704632
+    },
+    "1559066115" : {
+      "mempoolTransactions" : 483,
+      "priceUsd" : 435.663,
+      "priceUsdChange" : 1.80356,
+      "transactionFeeUsd" : 0.00119371662,
+      "transactions" : 272545230,
+      "transactions24" : 52979,
+      "volume" : 914419654300195
+    },
+    "1559066185" : {
+      "mempoolTransactions" : 516,
+      "priceUsd" : 436.04,
+      "priceUsdChange" : 2.16852,
+      "transactionFeeUsd" : 0.0011947496000000001,
+      "transactions" : 272545230,
+      "transactions24" : 52979,
+      "volume" : 914419654300195
+    },
+    "1559066237" : {
+      "mempoolTransactions" : 548,
+      "priceUsd" : 436.04,
+      "priceUsdChange" : 2.16852,
+      "transactionFeeUsd" : 0.0011947496000000001,
+      "transactions" : 272545230,
+      "transactions24" : 52979,
+      "volume" : 914419654300195
+    },
+    "1559066306" : {
+      "mempoolTransactions" : 103,
+      "priceUsd" : 436.04,
+      "priceUsdChange" : 2.16852,
+      "transactionFeeUsd" : 0.0011947496000000001,
+      "transactions" : 272545762,
+      "transactions24" : 53511,
+      "volume" : 917121864806989
+    },
+    "1559066382" : {
+      "mempoolTransactions" : 156,
+      "priceUsd" : 436.04,
+      "priceUsdChange" : 2.16852,
+      "transactionFeeUsd" : 0.0011947496000000001,
+      "transactions" : 272545762,
+      "transactions24" : 53322,
+      "volume" : 916282005844040
+    },
+    "1559066462" : {
+      "mempoolTransactions" : 220,
+      "priceUsd" : 436.18,
+      "priceUsdChange" : 2.61244,
+      "transactionFeeUsd" : 0.0011951332,
+      "transactions" : 272545762,
+      "transactions24" : 53218,
+      "volume" : 916239040669151
+    },
+    "1559066521" : {
+      "mempoolTransactions" : 264,
+      "priceUsd" : 436.18,
+      "priceUsdChange" : 2.61244,
+      "transactionFeeUsd" : 0.0011951332,
+      "transactions" : 272545762,
+      "transactions24" : 53218,
+      "volume" : 916239040669151
+    },
+    "1559066599" : {
+      "mempoolTransactions" : 323,
+      "priceUsd" : 436.18,
+      "priceUsdChange" : 2.61244,
+      "transactionFeeUsd" : 0.0011951332,
+      "transactions" : 272545762,
+      "transactions24" : 53218,
+      "volume" : 916239040669151
+    },
+    "1559066884" : {
+      "mempoolTransactions" : 548,
+      "priceUsd" : 436.031,
+      "priceUsdChange" : 2.48724,
+      "transactionFeeUsd" : 0.00119472494,
+      "transactions" : 272545762,
+      "transactions24" : 52859,
+      "volume" : 915324737478296
+    },
+    "1559066954" : {
+      "mempoolTransactions" : 588,
+      "priceUsd" : 436.031,
+      "priceUsdChange" : 2.48724,
+      "transactionFeeUsd" : 0.00119472494,
+      "transactions" : 272545762,
+      "transactions24" : 52859,
+      "volume" : 915324737478296
+    },
+    "1559067027" : {
+      "mempoolTransactions" : 637,
+      "priceUsd" : 434.782,
+      "priceUsdChange" : 1.75656,
+      "transactionFeeUsd" : 0.0011913026799999999,
+      "transactions" : 272545762,
+      "transactions24" : 52859,
+      "volume" : 915324737478296
+    },
+    "1559067070" : {
+      "mempoolTransactions" : 90,
+      "priceUsd" : 434.782,
+      "priceUsdChange" : 1.75656,
+      "transactionFeeUsd" : 0.0011913026799999999,
+      "transactions" : 272546369,
+      "transactions24" : 53466,
+      "volume" : 916355822726805
+    },
+    "1559067090" : {
+      "mempoolTransactions" : 105,
+      "priceUsd" : 434.782,
+      "priceUsdChange" : 1.75656,
+      "transactionFeeUsd" : 0.0011913026799999999,
+      "transactions" : 272546369,
+      "transactions24" : 53466,
+      "volume" : 916355822726805
+    },
+    "1559069960" : {
+      "mempoolTransactions" : 121,
+      "priceUsd" : 435.924,
+      "priceUsdChange" : 1.35214,
+      "transactionFeeUsd" : 0.00119443176,
+      "transactions" : 272548111,
+      "transactions24" : 53327,
+      "volume" : 917750806014762
+    },
+    "1559071983" : {
+      "mempoolTransactions" : 127,
+      "priceUsd" : 435.225,
+      "priceUsdChange" : 0.65082,
+      "transactionFeeUsd" : 0.0011925165,
+      "transactions" : 272549470,
+      "transactions24" : 54686,
+      "volume" : 922169896506185
+    },
+    "1559072560" : {
+      "mempoolTransactions" : 478,
+      "priceUsd" : 434.942,
+      "priceUsdChange" : 0.3978,
+      "transactionFeeUsd" : 0.00119174108,
+      "transactions" : 272549470,
+      "transactions24" : 54686,
+      "volume" : 922169896506185
+    },
+    "1559072621" : {
+      "mempoolTransactions" : 511,
+      "priceUsd" : 434.942,
+      "priceUsdChange" : 0.3978,
+      "transactionFeeUsd" : 0.00119174108,
+      "transactions" : 272549470,
+      "transactions24" : 54686,
+      "volume" : 922169896506185
+    },
+    "1559072889" : {
+      "mempoolTransactions" : 58,
+      "priceUsd" : 434.736,
+      "priceUsdChange" : 0.51433,
+      "transactionFeeUsd" : 0.00119117664,
+      "transactions" : 272550118,
+      "transactions24" : 55334,
+      "volume" : 923328904361039
+    },
+    "1559072945" : {
+      "mempoolTransactions" : 53,
+      "priceUsd" : 434.736,
+      "priceUsdChange" : 0.51433,
+      "transactionFeeUsd" : 0.00119117664,
+      "transactions" : 272550152,
+      "transactions24" : 55368,
+      "volume" : 923360930578545
+    },
+    "1559072968" : {
+      "mempoolTransactions" : 68,
+      "priceUsd" : 434.736,
+      "priceUsdChange" : 0.51433,
+      "transactionFeeUsd" : 0.00119117664,
+      "transactions" : 272550152,
+      "transactions24" : 55368,
+      "volume" : 923360930578545
+    },
+    "1559073038" : {
+      "mempoolTransactions" : 114,
+      "priceUsd" : 434.073,
+      "priceUsdChange" : 0.14942,
+      "transactionFeeUsd" : 0.00118936002,
+      "transactions" : 272550152,
+      "transactions24" : 55368,
+      "volume" : 923360930578545
+    },
+    "1559073124" : {
+      "mempoolTransactions" : 153,
+      "priceUsd" : 434.073,
+      "priceUsdChange" : 0.14942,
+      "transactionFeeUsd" : 0.00118936002,
+      "transactions" : 272550152,
+      "transactions24" : 55368,
+      "volume" : 923360930578545
+    },
+    "1559073196" : {
+      "mempoolTransactions" : 49,
+      "priceUsd" : 434.073,
+      "priceUsdChange" : 0.14942,
+      "transactionFeeUsd" : 0.00118936002,
+      "transactions" : 272550309,
+      "transactions24" : 55525,
+      "volume" : 924407846596676
+    },
+    "1559073266" : {
+      "mempoolTransactions" : 77,
+      "priceUsd" : 434.073,
+      "priceUsdChange" : 0.14942,
+      "transactionFeeUsd" : 0.00118936002,
+      "transactions" : 272550309,
+      "transactions24" : 55525,
+      "volume" : 924407846596676
+    },
+    "1559073335" : {
+      "mempoolTransactions" : 62,
+      "priceUsd" : 433.85,
+      "priceUsdChange" : 0.04953,
+      "transactionFeeUsd" : 0.001188749,
+      "transactions" : 272550372,
+      "transactions24" : 55588,
+      "volume" : 925310206690848
+    },
+    "1559073366" : {
+      "mempoolTransactions" : 90,
+      "priceUsd" : 433.85,
+      "priceUsdChange" : 0.04953,
+      "transactionFeeUsd" : 0.001188749,
+      "transactions" : 272550372,
+      "transactions24" : 55588,
+      "volume" : 925310206690848
+    },
+    "1559073573" : {
+      "mempoolTransactions" : 238,
+      "priceUsd" : 433.85,
+      "priceUsdChange" : 0.04953,
+      "transactionFeeUsd" : 0.001188749,
+      "transactions" : 272550372,
+      "transactions24" : 55588,
+      "volume" : 925310206690848
+    },
+    "1559073607" : {
+      "mempoolTransactions" : 255,
+      "priceUsd" : 433.85,
+      "priceUsdChange" : 0.04953,
+      "transactionFeeUsd" : 0.001188749,
+      "transactions" : 272550372,
+      "transactions24" : 55588,
+      "volume" : 925310206690848
+    },
+    "1559073647" : {
+      "mempoolTransactions" : 273,
+      "priceUsd" : 434.178,
+      "priceUsdChange" : 0.08539,
+      "transactionFeeUsd" : 0.00118964772,
+      "transactions" : 272550372,
+      "transactions24" : 55588,
+      "volume" : 925310206690848
+    },
+    "1559073702" : {
+      "mempoolTransactions" : 328,
+      "priceUsd" : 434.178,
+      "priceUsdChange" : 0.08539,
+      "transactionFeeUsd" : 0.00118964772,
+      "transactions" : 272550372,
+      "transactions24" : 55588,
+      "volume" : 925310206690848
+    },
+    "1559073805" : {
+      "mempoolTransactions" : 386,
+      "priceUsd" : 434.178,
+      "priceUsdChange" : 0.08539,
+      "transactionFeeUsd" : 0.00118964772,
+      "transactions" : 272550372,
+      "transactions24" : 55588,
+      "volume" : 925310206690848
+    },
+    "1559073863" : {
+      "mempoolTransactions" : 61,
+      "priceUsd" : 434.178,
+      "priceUsdChange" : 0.08539,
+      "transactionFeeUsd" : 0.00118964772,
+      "transactions" : 272550750,
+      "transactions24" : 55966,
+      "volume" : 925583879103535
+    },
+    "1559073892" : {
+      "mempoolTransactions" : 71,
+      "priceUsd" : 434.178,
+      "priceUsdChange" : 0.08539,
+      "transactionFeeUsd" : 0.00118964772,
+      "transactions" : 272550750,
+      "transactions24" : 55966,
+      "volume" : 925583879103535
+    },
+    "1559073964" : {
+      "mempoolTransactions" : 119,
+      "priceUsd" : 435.151,
+      "priceUsdChange" : 0.2622,
+      "transactionFeeUsd" : 0.00119231374,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559074078" : {
+      "mempoolTransactions" : 174,
+      "priceUsd" : 435.151,
+      "priceUsdChange" : 0.2622,
+      "transactionFeeUsd" : 0.00119231374,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559074123" : {
+      "mempoolTransactions" : 200,
+      "priceUsd" : 435.151,
+      "priceUsdChange" : 0.2622,
+      "transactionFeeUsd" : 0.00119231374,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559074279" : {
+      "mempoolTransactions" : 300,
+      "priceUsd" : 435.151,
+      "priceUsdChange" : 0.2622,
+      "transactionFeeUsd" : 0.00119231374,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559074347" : {
+      "mempoolTransactions" : 342,
+      "priceUsd" : 435.151,
+      "priceUsdChange" : 0.2622,
+      "transactionFeeUsd" : 0.00119231374,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559074361" : {
+      "mempoolTransactions" : 349,
+      "priceUsd" : 435.151,
+      "priceUsdChange" : 0.2622,
+      "transactionFeeUsd" : 0.00119231374,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559074406" : {
+      "mempoolTransactions" : 374,
+      "priceUsd" : 435.151,
+      "priceUsdChange" : 0.2622,
+      "transactionFeeUsd" : 0.00119231374,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559074505" : {
+      "mempoolTransactions" : 429,
+      "priceUsd" : 435.151,
+      "priceUsdChange" : 0.2622,
+      "transactionFeeUsd" : 0.00119231374,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559074559" : {
+      "mempoolTransactions" : 454,
+      "priceUsd" : 434.647,
+      "priceUsdChange" : 0.61908,
+      "transactionFeeUsd" : 0.00119093278,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559074582" : {
+      "mempoolTransactions" : 466,
+      "priceUsd" : 434.647,
+      "priceUsdChange" : 0.61908,
+      "transactionFeeUsd" : 0.00119093278,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559074613" : {
+      "mempoolTransactions" : 490,
+      "priceUsd" : 434.647,
+      "priceUsdChange" : 0.61908,
+      "transactionFeeUsd" : 0.00119093278,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559074717" : {
+      "mempoolTransactions" : 555,
+      "priceUsd" : 434.647,
+      "priceUsdChange" : 0.61908,
+      "transactionFeeUsd" : 0.00119093278,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559074730" : {
+      "mempoolTransactions" : 560,
+      "priceUsd" : 434.647,
+      "priceUsdChange" : 0.61908,
+      "transactionFeeUsd" : 0.00119093278,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559074769" : {
+      "mempoolTransactions" : 584,
+      "priceUsd" : 434.647,
+      "priceUsdChange" : 0.61908,
+      "transactionFeeUsd" : 0.00119093278,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559074886" : {
+      "mempoolTransactions" : 646,
+      "priceUsd" : 434.619,
+      "priceUsdChange" : 0.6631,
+      "transactionFeeUsd" : 0.00119085606,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559075029" : {
+      "mempoolTransactions" : 725,
+      "priceUsd" : 434.619,
+      "priceUsdChange" : 0.6631,
+      "transactionFeeUsd" : 0.00119085606,
+      "transactions" : 272550750,
+      "transactions24" : 53307,
+      "volume" : 913283178611855
+    },
+    "1559075083" : {
+      "mempoolTransactions" : 759,
+      "priceUsd" : 434.619,
+      "priceUsdChange" : 0.6631,
+      "transactionFeeUsd" : 0.00119085606,
+      "transactions" : 272550750,
+      "transactions24" : 52452,
+      "volume" : 909209750923571
+    },
+    "1559075123" : {
+      "mempoolTransactions" : 773,
+      "priceUsd" : 434.778,
+      "priceUsdChange" : 0.85104,
+      "transactionFeeUsd" : 0.00119129172,
+      "transactions" : 272550750,
+      "transactions24" : 52452,
+      "volume" : 909209750923571
+    },
+    "1559075205" : {
+      "mempoolTransactions" : 811,
+      "priceUsd" : 434.778,
+      "priceUsdChange" : 0.85104,
+      "transactionFeeUsd" : 0.00119129172,
+      "transactions" : 272550750,
+      "transactions24" : 52452,
+      "volume" : 909209750923571
+    },
+    "1559075257" : {
+      "mempoolTransactions" : 827,
+      "priceUsd" : 434.778,
+      "priceUsdChange" : 0.85104,
+      "transactionFeeUsd" : 0.00119129172,
+      "transactions" : 272550750,
+      "transactions24" : 52452,
+      "volume" : 909209750923571
+    },
+    "1559075300" : {
+      "mempoolTransactions" : 846,
+      "priceUsd" : 434.778,
+      "priceUsdChange" : 0.85104,
+      "transactionFeeUsd" : 0.00119129172,
+      "transactions" : 272550750,
+      "transactions24" : 52452,
+      "volume" : 909209750923571
+    },
+    "1559075331" : {
+      "mempoolTransactions" : 859,
+      "priceUsd" : 434.778,
+      "priceUsdChange" : 0.85104,
+      "transactionFeeUsd" : 0.00119129172,
+      "transactions" : 272550750,
+      "transactions24" : 52452,
+      "volume" : 909209750923571
+    },
+    "1559075489" : {
+      "mempoolTransactions" : 949,
+      "priceUsd" : 434.844,
+      "priceUsdChange" : 1.09141,
+      "transactionFeeUsd" : 0.00119147256,
+      "transactions" : 272550750,
+      "transactions24" : 52452,
+      "volume" : 909209750923571
+    },
+    "1559075537" : {
+      "mempoolTransactions" : 976,
+      "priceUsd" : 434.844,
+      "priceUsdChange" : 1.09141,
+      "transactionFeeUsd" : 0.00119147256,
+      "transactions" : 272550750,
+      "transactions24" : 52452,
+      "volume" : 909209750923571
+    },
+    "1559075563" : {
+      "mempoolTransactions" : 986,
+      "priceUsd" : 434.844,
+      "priceUsdChange" : 1.09141,
+      "transactionFeeUsd" : 0.00119147256,
+      "transactions" : 272550750,
+      "transactions24" : 52452,
+      "volume" : 909209750923571
+    },
+    "1559075714" : {
+      "mempoolTransactions" : 1075,
+      "priceUsd" : 434.844,
+      "priceUsdChange" : 1.09141,
+      "transactionFeeUsd" : 0.00119147256,
+      "transactions" : 272550750,
+      "transactions24" : 52054,
+      "volume" : 909117449363654
+    },
+    "1559075733" : {
+      "mempoolTransactions" : 1086,
+      "priceUsd" : 434.911,
+      "priceUsdChange" : 0.99638,
+      "transactionFeeUsd" : 0.00119165614,
+      "transactions" : 272550750,
+      "transactions24" : 52054,
+      "volume" : 909117449363654
+    },
+    "1559075902" : {
+      "mempoolTransactions" : 1176,
+      "priceUsd" : 434.911,
+      "priceUsdChange" : 0.99638,
+      "transactionFeeUsd" : 0.00119165614,
+      "transactions" : 272550750,
+      "transactions24" : 52054,
+      "volume" : 909117449363654
+    },
+    "1559075985" : {
+      "mempoolTransactions" : 1223,
+      "priceUsd" : 434.911,
+      "priceUsdChange" : 0.99638,
+      "transactionFeeUsd" : 0.00119165614,
+      "transactions" : 272550750,
+      "transactions24" : 52054,
+      "volume" : 909117449363654
+    },
+    "1559076011" : {
+      "mempoolTransactions" : 1235,
+      "priceUsd" : 434.911,
+      "priceUsdChange" : 0.99638,
+      "transactionFeeUsd" : 0.00119165614,
+      "transactions" : 272550750,
+      "transactions24" : 52054,
+      "volume" : 909117449363654
+    },
+    "1559076076" : {
+      "mempoolTransactions" : 1270,
+      "priceUsd" : 434.98,
+      "priceUsdChange" : 0.82616,
+      "transactionFeeUsd" : 0.0011918452,
+      "transactions" : 272550750,
+      "transactions24" : 52054,
+      "volume" : 909117449363654
+    },
+    "1559076105" : {
+      "mempoolTransactions" : 1277,
+      "priceUsd" : 434.98,
+      "priceUsdChange" : 0.82616,
+      "transactionFeeUsd" : 0.0011918452,
+      "transactions" : 272550750,
+      "transactions24" : 52054,
+      "volume" : 909117449363654
+    },
+    "1559076204" : {
+      "mempoolTransactions" : 1337,
+      "priceUsd" : 434.98,
+      "priceUsdChange" : 0.82616,
+      "transactionFeeUsd" : 0.0011918452,
+      "transactions" : 272550750,
+      "transactions24" : 52054,
+      "volume" : 909117449363654
+    },
+    "1559076490" : {
+      "mempoolTransactions" : 1473,
+      "priceUsd" : 435.641,
+      "priceUsdChange" : 0.98808,
+      "transactionFeeUsd" : 0.0011936563400000001,
+      "transactions" : 272550750,
+      "transactions24" : 52054,
+      "volume" : 909117449363654
+    },
+    "1559076594" : {
+      "mempoolTransactions" : 1531,
+      "priceUsd" : 435.641,
+      "priceUsdChange" : 0.98808,
+      "transactionFeeUsd" : 0.0011936563400000001,
+      "transactions" : 272550750,
+      "transactions24" : 52054,
+      "volume" : 909117449363654
+    },
+    "1559076610" : {
+      "mempoolTransactions" : 1546,
+      "priceUsd" : 435.641,
+      "priceUsdChange" : 0.98808,
+      "transactionFeeUsd" : 0.0011936563400000001,
+      "transactions" : 272550750,
+      "transactions24" : 52054,
+      "volume" : 909117449363654
+    },
+    "1559076669" : {
+      "mempoolTransactions" : 1595,
+      "priceUsd" : 436.687,
+      "priceUsdChange" : 1.06677,
+      "transactionFeeUsd" : 0.00119652238,
+      "transactions" : 272550750,
+      "transactions24" : 52054,
+      "volume" : 909117449363654
+    },
+    "1559076690" : {
+      "mempoolTransactions" : 1609,
+      "priceUsd" : 436.687,
+      "priceUsdChange" : 1.06677,
+      "transactionFeeUsd" : 0.00119652238,
+      "transactions" : 272550750,
+      "transactions24" : 52054,
+      "volume" : 909117449363654
+    },
+    "1559076763" : {
+      "mempoolTransactions" : 1640,
+      "priceUsd" : 436.687,
+      "priceUsdChange" : 1.06677,
+      "transactionFeeUsd" : 0.00119652238,
+      "transactions" : 272552357,
+      "transactions24" : 53661,
+      "volume" : 920435388772577
+    },
+    "1559076870" : {
+      "mempoolTransactions" : 108,
+      "priceUsd" : 436.687,
+      "priceUsdChange" : 1.06677,
+      "transactionFeeUsd" : 0.00119652238,
+      "transactions" : 272552357,
+      "transactions24" : 53661,
+      "volume" : 920435388772577
+    },
+    "1559076884" : {
+      "mempoolTransactions" : 112,
+      "priceUsd" : 436.687,
+      "priceUsdChange" : 1.06677,
+      "transactionFeeUsd" : 0.00119652238,
+      "transactions" : 272552357,
+      "transactions24" : 53661,
+      "volume" : 920435388772577
+    },
+    "1559076906" : {
+      "mempoolTransactions" : 125,
+      "priceUsd" : 436.687,
+      "priceUsdChange" : 1.06677,
+      "transactionFeeUsd" : 0.00119652238,
+      "transactions" : 272552357,
+      "transactions24" : 53661,
+      "volume" : 920435388772577
+    },
+    "1559076994" : {
+      "mempoolTransactions" : 198,
+      "priceUsd" : 436.62,
+      "priceUsdChange" : 1.34596,
+      "transactionFeeUsd" : 0.0011963388,
+      "transactions" : 272552357,
+      "transactions24" : 53661,
+      "volume" : 920435388772577
+    },
+    "1559077021" : {
+      "mempoolTransactions" : 210,
+      "priceUsd" : 436.62,
+      "priceUsdChange" : 1.34596,
+      "transactionFeeUsd" : 0.0011963388,
+      "transactions" : 272552357,
+      "transactions24" : 53661,
+      "volume" : 920435388772577
+    },
+    "1559077071" : {
+      "mempoolTransactions" : 234,
+      "priceUsd" : 436.62,
+      "priceUsdChange" : 1.34596,
+      "transactionFeeUsd" : 0.0011963388,
+      "transactions" : 272552357,
+      "transactions24" : 53661,
+      "volume" : 920435388772577
+    },
+    "1559077152" : {
+      "mempoolTransactions" : 280,
+      "priceUsd" : 436.62,
+      "priceUsdChange" : 1.34596,
+      "transactionFeeUsd" : 0.0011963388,
+      "transactions" : 272552357,
+      "transactions24" : 53661,
+      "volume" : 920435388772577
+    },
+    "1559077229" : {
+      "mempoolTransactions" : 327,
+      "priceUsd" : 436.683,
+      "priceUsdChange" : 1.21029,
+      "transactionFeeUsd" : 0.00119651142,
+      "transactions" : 272552357,
+      "transactions24" : 53661,
+      "volume" : 920435388772577
+    },
+    "1559077321" : {
+      "mempoolTransactions" : 98,
+      "priceUsd" : 436.683,
+      "priceUsdChange" : 1.21029,
+      "transactionFeeUsd" : 0.00119651142,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559077385" : {
+      "mempoolTransactions" : 138,
+      "priceUsd" : 436.683,
+      "priceUsdChange" : 1.21029,
+      "transactionFeeUsd" : 0.00119651142,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559077445" : {
+      "mempoolTransactions" : 187,
+      "priceUsd" : 436.683,
+      "priceUsdChange" : 1.21029,
+      "transactionFeeUsd" : 0.00119651142,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559077519" : {
+      "mempoolTransactions" : 231,
+      "priceUsd" : 436.327,
+      "priceUsdChange" : 1.25798,
+      "transactionFeeUsd" : 0.00119553598,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559077570" : {
+      "mempoolTransactions" : 266,
+      "priceUsd" : 436.327,
+      "priceUsdChange" : 1.25798,
+      "transactionFeeUsd" : 0.00119553598,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559077759" : {
+      "mempoolTransactions" : 369,
+      "priceUsd" : 436.327,
+      "priceUsdChange" : 1.25798,
+      "transactionFeeUsd" : 0.00119553598,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559077780" : {
+      "mempoolTransactions" : 377,
+      "priceUsd" : 436.327,
+      "priceUsdChange" : 1.25798,
+      "transactionFeeUsd" : 0.00119553598,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559077792" : {
+      "mempoolTransactions" : 381,
+      "priceUsd" : 436.327,
+      "priceUsdChange" : 1.25798,
+      "transactionFeeUsd" : 0.00119553598,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559077812" : {
+      "mempoolTransactions" : 396,
+      "priceUsd" : 436.327,
+      "priceUsdChange" : 1.25798,
+      "transactionFeeUsd" : 0.00119553598,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559077991" : {
+      "mempoolTransactions" : 492,
+      "priceUsd" : 436.538,
+      "priceUsdChange" : 1.42098,
+      "transactionFeeUsd" : 0.00119611412,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559078141" : {
+      "mempoolTransactions" : 569,
+      "priceUsd" : 436.897,
+      "priceUsdChange" : 1.35806,
+      "transactionFeeUsd" : 0.00119709778,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559078153" : {
+      "mempoolTransactions" : 578,
+      "priceUsd" : 436.897,
+      "priceUsdChange" : 1.35806,
+      "transactionFeeUsd" : 0.00119709778,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559078247" : {
+      "mempoolTransactions" : 634,
+      "priceUsd" : 436.897,
+      "priceUsdChange" : 1.35806,
+      "transactionFeeUsd" : 0.00119709778,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559078262" : {
+      "mempoolTransactions" : 651,
+      "priceUsd" : 436.897,
+      "priceUsdChange" : 1.35806,
+      "transactionFeeUsd" : 0.00119709778,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559078305" : {
+      "mempoolTransactions" : 681,
+      "priceUsd" : 436.897,
+      "priceUsdChange" : 1.35806,
+      "transactionFeeUsd" : 0.00119709778,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559078380" : {
+      "mempoolTransactions" : 731,
+      "priceUsd" : 436.897,
+      "priceUsdChange" : 1.35806,
+      "transactionFeeUsd" : 0.00119709778,
+      "transactions" : 272552648,
+      "transactions24" : 53952,
+      "volume" : 921544295186688
+    },
+    "1559078442" : {
+      "mempoolTransactions" : 772,
+      "priceUsd" : 436.623,
+      "priceUsdChange" : 1.40929,
+      "transactionFeeUsd" : 0.00119634702,
+      "transactions" : 272552648,
+      "transactions24" : 52402,
+      "volume" : 912785139727859
+    },
+    "1559080724" : {
+      "mempoolTransactions" : 254,
+      "priceUsd" : 436.406,
+      "priceUsdChange" : 0.77266,
+      "transactionFeeUsd" : 0.00119575244,
+      "transactions" : 272554454,
+      "transactions24" : 53246,
+      "volume" : 935891930032406
+    },
+    "1559080936" : {
+      "mempoolTransactions" : 100,
+      "priceUsd" : 436.748,
+      "priceUsdChange" : 0.83376,
+      "transactionFeeUsd" : 0.00119668952,
+      "transactions" : 272554734,
+      "transactions24" : 53217,
+      "volume" : 935408380782451
+    },
+    "1559080987" : {
+      "mempoolTransactions" : 37,
+      "priceUsd" : 436.748,
+      "priceUsdChange" : 0.83376,
+      "transactionFeeUsd" : 0.00119668952,
+      "transactions" : 272554832,
+      "transactions24" : 53315,
+      "volume" : 935417821119554
+    },
+    "1559081024" : {
+      "mempoolTransactions" : 62,
+      "priceUsd" : 436.748,
+      "priceUsdChange" : 0.83376,
+      "transactionFeeUsd" : 0.00119668952,
+      "transactions" : 272554832,
+      "transactions24" : 53315,
+      "volume" : 935417821119554
+    },
+    "1559081047" : {
+      "mempoolTransactions" : 81,
+      "priceUsd" : 436.748,
+      "priceUsdChange" : 0.83376,
+      "transactionFeeUsd" : 0.00119668952,
+      "transactions" : 272554832,
+      "transactions24" : 53315,
+      "volume" : 935417821119554
+    },
+    "1559081151" : {
+      "mempoolTransactions" : 65,
+      "priceUsd" : 437.096,
+      "priceUsdChange" : 0.97513,
+      "transactionFeeUsd" : 0.00119764304,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559081199" : {
+      "mempoolTransactions" : 95,
+      "priceUsd" : 437.096,
+      "priceUsdChange" : 0.97513,
+      "transactionFeeUsd" : 0.00119764304,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559081256" : {
+      "mempoolTransactions" : 119,
+      "priceUsd" : 437.096,
+      "priceUsdChange" : 0.97513,
+      "transactionFeeUsd" : 0.00119764304,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559081307" : {
+      "mempoolTransactions" : 144,
+      "priceUsd" : 437.096,
+      "priceUsdChange" : 0.97513,
+      "transactionFeeUsd" : 0.00119764304,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559081382" : {
+      "mempoolTransactions" : 187,
+      "priceUsd" : 437.096,
+      "priceUsdChange" : 0.97513,
+      "transactionFeeUsd" : 0.00119764304,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559081474" : {
+      "mempoolTransactions" : 233,
+      "priceUsd" : 437.638,
+      "priceUsdChange" : 1.26928,
+      "transactionFeeUsd" : 0.00119912812,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559081549" : {
+      "mempoolTransactions" : 271,
+      "priceUsd" : 437.638,
+      "priceUsdChange" : 1.26928,
+      "transactionFeeUsd" : 0.00119912812,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559081597" : {
+      "mempoolTransactions" : 290,
+      "priceUsd" : 437.638,
+      "priceUsdChange" : 1.26928,
+      "transactionFeeUsd" : 0.00119912812,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559081631" : {
+      "mempoolTransactions" : 307,
+      "priceUsd" : 437.638,
+      "priceUsdChange" : 1.26928,
+      "transactionFeeUsd" : 0.00119912812,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559081701" : {
+      "mempoolTransactions" : 344,
+      "priceUsd" : 437.638,
+      "priceUsdChange" : 1.26928,
+      "transactionFeeUsd" : 0.00119912812,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559081771" : {
+      "mempoolTransactions" : 379,
+      "priceUsd" : 437.384,
+      "priceUsdChange" : 1.15416,
+      "transactionFeeUsd" : 0.0011984321600000002,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559081835" : {
+      "mempoolTransactions" : 414,
+      "priceUsd" : 437.384,
+      "priceUsdChange" : 1.15416,
+      "transactionFeeUsd" : 0.0011984321600000002,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559081904" : {
+      "mempoolTransactions" : 441,
+      "priceUsd" : 437.384,
+      "priceUsdChange" : 1.15416,
+      "transactionFeeUsd" : 0.0011984321600000002,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559081914" : {
+      "mempoolTransactions" : 445,
+      "priceUsd" : 437.384,
+      "priceUsdChange" : 1.15416,
+      "transactionFeeUsd" : 0.0011984321600000002,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559081984" : {
+      "mempoolTransactions" : 484,
+      "priceUsd" : 437.384,
+      "priceUsdChange" : 1.15416,
+      "transactionFeeUsd" : 0.0011984321600000002,
+      "transactions" : 272554927,
+      "transactions24" : 53410,
+      "volume" : 936283123020455
+    },
+    "1559082098" : {
+      "mempoolTransactions" : 53,
+      "priceUsd" : 437.272,
+      "priceUsdChange" : 1.13665,
+      "transactionFeeUsd" : 0.00119812528,
+      "transactions" : 272555437,
+      "transactions24" : 53920,
+      "volume" : 940520627405991
+    },
+    "1559082491" : {
+      "mempoolTransactions" : 274,
+      "priceUsd" : 437.095,
+      "priceUsdChange" : 1.20469,
+      "transactionFeeUsd" : 0.0011976403000000001,
+      "transactions" : 272555437,
+      "transactions24" : 53920,
+      "volume" : 940520627405991
+    },
+    "1559082561" : {
+      "mempoolTransactions" : 309,
+      "priceUsd" : 437.095,
+      "priceUsdChange" : 1.20469,
+      "transactionFeeUsd" : 0.0011976403000000001,
+      "transactions" : 272555437,
+      "transactions24" : 53920,
+      "volume" : 940520627405991
+    },
+    "1559082569" : {
+      "mempoolTransactions" : 314,
+      "priceUsd" : 437.095,
+      "priceUsdChange" : 1.20469,
+      "transactionFeeUsd" : 0.0011976403000000001,
+      "transactions" : 272555437,
+      "transactions24" : 53920,
+      "volume" : 940520627405991
+    },
+    "1559082629" : {
+      "mempoolTransactions" : 348,
+      "priceUsd" : 436.557,
+      "priceUsdChange" : 1.0831,
+      "transactionFeeUsd" : 0.00119616618,
+      "transactions" : 272555437,
+      "transactions24" : 53920,
+      "volume" : 940520627405991
+    },
+    "1559082646" : {
+      "mempoolTransactions" : 359,
+      "priceUsd" : 436.557,
+      "priceUsdChange" : 1.0831,
+      "transactionFeeUsd" : 0.00119616618,
+      "transactions" : 272555437,
+      "transactions24" : 53920,
+      "volume" : 940520627405991
+    },
+    "1559082731" : {
+      "mempoolTransactions" : 405,
+      "priceUsd" : 436.557,
+      "priceUsdChange" : 1.0831,
+      "transactionFeeUsd" : 0.00119616618,
+      "transactions" : 272555437,
+      "transactions24" : 52990,
+      "volume" : 938277814611274
+    },
+    "1559082871" : {
+      "mempoolTransactions" : 470,
+      "priceUsd" : 436.557,
+      "priceUsdChange" : 1.0831,
+      "transactionFeeUsd" : 0.00119616618,
+      "transactions" : 272555437,
+      "transactions24" : 52990,
+      "volume" : 938277814611274
+    },
+    "1559082936" : {
+      "mempoolTransactions" : 60,
+      "priceUsd" : 436.312,
+      "priceUsdChange" : 1.04336,
+      "transactionFeeUsd" : 0.00119549488,
+      "transactions" : 272555894,
+      "transactions24" : 53447,
+      "volume" : 939288837173537
+    },
+    "1559083022" : {
+      "mempoolTransactions" : 107,
+      "priceUsd" : 436.312,
+      "priceUsdChange" : 1.04336,
+      "transactionFeeUsd" : 0.00119549488,
+      "transactions" : 272555894,
+      "transactions24" : 53447,
+      "volume" : 939288837173537
+    },
+    "1559083045" : {
+      "mempoolTransactions" : 121,
+      "priceUsd" : 436.312,
+      "priceUsdChange" : 1.04336,
+      "transactionFeeUsd" : 0.00119549488,
+      "transactions" : 272555894,
+      "transactions24" : 53447,
+      "volume" : 939288837173537
+    },
+    "1559083086" : {
+      "mempoolTransactions" : 145,
+      "priceUsd" : 436.312,
+      "priceUsdChange" : 1.04336,
+      "transactionFeeUsd" : 0.00119549488,
+      "transactions" : 272555894,
+      "transactions24" : 53230,
+      "volume" : 937098340398809
+    },
+    "1559083465" : {
+      "mempoolTransactions" : 357,
+      "priceUsd" : 435.94,
+      "priceUsdChange" : 0.87742,
+      "transactionFeeUsd" : 0.0011944756,
+      "transactions" : 272555894,
+      "transactions24" : 53143,
+      "volume" : 937017817838212
+    },
+    "1559083745" : {
+      "mempoolTransactions" : 453,
+      "priceUsd" : 435.559,
+      "priceUsdChange" : 0.61883,
+      "transactionFeeUsd" : 0.0011934316600000002,
+      "transactions" : 272555894,
+      "transactions24" : 52942,
+      "volume" : 936399400055260
+    },
+    "1559083814" : {
+      "mempoolTransactions" : 485,
+      "priceUsd" : 435.559,
+      "priceUsdChange" : 0.61883,
+      "transactionFeeUsd" : 0.0011934316600000002,
+      "transactions" : 272555894,
+      "transactions24" : 52942,
+      "volume" : 936399400055260
+    },
+    "1559085152" : {
+      "mempoolTransactions" : 1149,
+      "priceUsd" : 434.973,
+      "priceUsdChange" : -0.10348,
+      "transactionFeeUsd" : 0.0011918260200000001,
+      "transactions" : 272555894,
+      "transactions24" : 52450,
+      "volume" : 934278257777909
+    },
+    "1559085271" : {
+      "mempoolTransactions" : 1210,
+      "priceUsd" : 434.973,
+      "priceUsdChange" : -0.10348,
+      "transactionFeeUsd" : 0.0011918260200000001,
+      "transactions" : 272555894,
+      "transactions24" : 52450,
+      "volume" : 934278257777909
+    },
+    "1559086423" : {
+      "mempoolTransactions" : 184,
+      "priceUsd" : 432.578,
+      "priceUsdChange" : -1.73555,
+      "transactionFeeUsd" : 0.00118526372,
+      "transactions" : 272557697,
+      "transactions24" : 54253,
+      "volume" : 1207022563812519
+    },
+    "1559086978" : {
+      "mempoolTransactions" : 432,
+      "priceUsd" : 432.897,
+      "priceUsdChange" : -1.57531,
+      "transactionFeeUsd" : 0.00118613778,
+      "transactions" : 272557697,
+      "transactions24" : 54253,
+      "volume" : 1207022563812519
+    },
+    "1559087048" : {
+      "mempoolTransactions" : 474,
+      "priceUsd" : 432.897,
+      "priceUsdChange" : -1.57531,
+      "transactionFeeUsd" : 0.00118613778,
+      "transactions" : 272557697,
+      "transactions24" : 52212,
+      "volume" : 1014069033736560
+    },
+    "1559087090" : {
+      "mempoolTransactions" : 492,
+      "priceUsd" : 432.897,
+      "priceUsdChange" : -1.57531,
+      "transactionFeeUsd" : 0.00118613778,
+      "transactions" : 272557697,
+      "transactions24" : 52212,
+      "volume" : 1014069033736560
+    },
+    "1559087175" : {
+      "mempoolTransactions" : 524,
+      "priceUsd" : 432.634,
+      "priceUsdChange" : -1.39131,
+      "transactionFeeUsd" : 0.00118541716,
+      "transactions" : 272557697,
+      "transactions24" : 52212,
+      "volume" : 1014069033736560
+    },
+    "1559087202" : {
+      "mempoolTransactions" : 533,
+      "priceUsd" : 432.634,
+      "priceUsdChange" : -1.39131,
+      "transactionFeeUsd" : 0.00118541716,
+      "transactions" : 272557697,
+      "transactions24" : 52212,
+      "volume" : 1014069033736560
+    },
+    "1559087327" : {
+      "mempoolTransactions" : 599,
+      "priceUsd" : 432.634,
+      "priceUsdChange" : -1.39131,
+      "transactionFeeUsd" : 0.00118541716,
+      "transactions" : 272557697,
+      "transactions24" : 51661,
+      "volume" : 555696920231781
+    },
+    "1559087408" : {
+      "mempoolTransactions" : 645,
+      "priceUsd" : 432.634,
+      "priceUsdChange" : -1.39131,
+      "transactionFeeUsd" : 0.00118541716,
+      "transactions" : 272557697,
+      "transactions24" : 51661,
+      "volume" : 555696920231781
+    },
+    "1559087478" : {
+      "mempoolTransactions" : 674,
+      "priceUsd" : 433.456,
+      "priceUsdChange" : -2.27239,
+      "transactionFeeUsd" : 0.0011876694400000001,
+      "transactions" : 272557697,
+      "transactions24" : 51566,
+      "volume" : 555665147697708
+    },
+    "1559087548" : {
+      "mempoolTransactions" : 709,
+      "priceUsd" : 433.456,
+      "priceUsdChange" : -2.27239,
+      "transactionFeeUsd" : 0.0011876694400000001,
+      "transactions" : 272557697,
+      "transactions24" : 51566,
+      "volume" : 555665147697708
+    },
+    "1559087617" : {
+      "mempoolTransactions" : 742,
+      "priceUsd" : 433.456,
+      "priceUsdChange" : -2.27239,
+      "transactionFeeUsd" : 0.0011876694400000001,
+      "transactions" : 272557697,
+      "transactions24" : 51566,
+      "volume" : 555665147697708
+    },
+    "1559087815" : {
+      "mempoolTransactions" : 856,
+      "priceUsd" : 433.511,
+      "priceUsdChange" : -2.36986,
+      "transactionFeeUsd" : 0.0011878201400000001,
+      "transactions" : 272557697,
+      "transactions24" : 51566,
+      "volume" : 555665147697708
+    },
+    "1559088686" : {
+      "mempoolTransactions" : 307,
+      "priceUsd" : 432.526,
+      "priceUsdChange" : -2.39593,
+      "transactionFeeUsd" : 0.00118512124,
+      "transactions" : 272558719,
+      "transactions24" : 51837,
+      "volume" : 563212388620745
+    },
+    "1559088751" : {
+      "mempoolTransactions" : 332,
+      "priceUsd" : 432.526,
+      "priceUsdChange" : -2.39593,
+      "transactionFeeUsd" : 0.00118512124,
+      "transactions" : 272558719,
+      "transactions24" : 51837,
+      "volume" : 563212388620745
+    },
+    "1559088820" : {
+      "mempoolTransactions" : 49,
+      "priceUsd" : 432.526,
+      "priceUsdChange" : -2.39593,
+      "transactionFeeUsd" : 0.00118512124,
+      "transactions" : 272559035,
+      "transactions24" : 52153,
+      "volume" : 564339721820758
+    },
+    "1559088901" : {
+      "mempoolTransactions" : 54,
+      "priceUsd" : 432.526,
+      "priceUsdChange" : -2.39593,
+      "transactionFeeUsd" : 0.00118512124,
+      "transactions" : 272559067,
+      "transactions24" : 52185,
+      "volume" : 564414814640740
+    },
+    "1559089023" : {
+      "mempoolTransactions" : 85,
+      "priceUsd" : 432.634,
+      "priceUsdChange" : -2.26358,
+      "transactionFeeUsd" : 0.00118541716,
+      "transactions" : 272559093,
+      "transactions24" : 52211,
+      "volume" : 564421398511488
+    },
+    "1559089110" : {
+      "mempoolTransactions" : 113,
+      "priceUsd" : 432.634,
+      "priceUsdChange" : -2.26358,
+      "transactionFeeUsd" : 0.00118541716,
+      "transactions" : 272559093,
+      "transactions24" : 51743,
+      "volume" : 561729198400932
+    },
+    "1559089468" : {
+      "mempoolTransactions" : 169,
+      "priceUsd" : 431.925,
+      "priceUsdChange" : -2.27665,
+      "transactionFeeUsd" : 0.0011834745,
+      "transactions" : 272559234,
+      "transactions24" : 51828,
+      "volume" : 562775379951582
+    },
+    "1559089490" : {
+      "mempoolTransactions" : 187,
+      "priceUsd" : 431.925,
+      "priceUsdChange" : -2.27665,
+      "transactionFeeUsd" : 0.0011834745,
+      "transactions" : 272559234,
+      "transactions24" : 51828,
+      "volume" : 562775379951582
+    },
+    "1559089595" : {
+      "mempoolTransactions" : 234,
+      "priceUsd" : 431.925,
+      "priceUsdChange" : -2.27665,
+      "transactionFeeUsd" : 0.0011834745,
+      "transactions" : 272559234,
+      "transactions24" : 51828,
+      "volume" : 562775379951582
+    },
+    "1559089640" : {
+      "mempoolTransactions" : 255,
+      "priceUsd" : 431.925,
+      "priceUsdChange" : -2.27665,
+      "transactionFeeUsd" : 0.0011834745,
+      "transactions" : 272559234,
+      "transactions24" : 51828,
+      "volume" : 562775379951582
+    },
+    "1559089812" : {
+      "mempoolTransactions" : 335,
+      "priceUsd" : 431.925,
+      "priceUsdChange" : -2.27665,
+      "transactionFeeUsd" : 0.0011834745,
+      "transactions" : 272559234,
+      "transactions24" : 51828,
+      "volume" : 562775379951582
+    },
+    "1559089872" : {
+      "mempoolTransactions" : 379,
+      "priceUsd" : 430.794,
+      "priceUsdChange" : -1.58988,
+      "transactionFeeUsd" : 0.00118037556,
+      "transactions" : 272559234,
+      "transactions24" : 51828,
+      "volume" : 562775379951582
+    },
+    "1559090028" : {
+      "mempoolTransactions" : 469,
+      "priceUsd" : 430.794,
+      "priceUsdChange" : -1.58988,
+      "transactionFeeUsd" : 0.00118037556,
+      "transactions" : 272559234,
+      "transactions24" : 51828,
+      "volume" : 562775379951582
+    },
+    "1559090101" : {
+      "mempoolTransactions" : 502,
+      "priceUsd" : 430.794,
+      "priceUsdChange" : -1.58988,
+      "transactionFeeUsd" : 0.00118037556,
+      "transactions" : 272559234,
+      "transactions24" : 51828,
+      "volume" : 562775379951582
+    },
+    "1559090158" : {
+      "mempoolTransactions" : 534,
+      "priceUsd" : 430.483,
+      "priceUsdChange" : -1.25596,
+      "transactionFeeUsd" : 0.00117952342,
+      "transactions" : 272559234,
+      "transactions24" : 51828,
+      "volume" : 562775379951582
+    },
+    "1559090224" : {
+      "mempoolTransactions" : 47,
+      "priceUsd" : 430.483,
+      "priceUsdChange" : -1.25596,
+      "transactionFeeUsd" : 0.00117952342,
+      "transactions" : 272559758,
+      "transactions24" : 52352,
+      "volume" : 565153000995220
+    },
+    "1559090431" : {
+      "mempoolTransactions" : 155,
+      "priceUsd" : 431.376,
+      "priceUsdChange" : -1.12187,
+      "transactionFeeUsd" : 0.00118197024,
+      "transactions" : 272559758,
+      "transactions24" : 52352,
+      "volume" : 565153000995220
+    },
+    "1559090496" : {
+      "mempoolTransactions" : 53,
+      "priceUsd" : 431.376,
+      "priceUsdChange" : -1.12187,
+      "transactionFeeUsd" : 0.00118197024,
+      "transactions" : 272559896,
+      "transactions24" : 52490,
+      "volume" : 565293786176703
+    },
+    "1559090662" : {
+      "mempoolTransactions" : 131,
+      "priceUsd" : 431.376,
+      "priceUsdChange" : -1.12187,
+      "transactionFeeUsd" : 0.00118197024,
+      "transactions" : 272559896,
+      "transactions24" : 52490,
+      "volume" : 565293786176703
+    },
+    "1559103731" : {
+      "mempoolTransactions" : 644,
+      "priceUsd" : 426.708,
+      "priceUsdChange" : -2.54757,
+      "transactionFeeUsd" : 0.00116917992,
+      "transactions" : 272566342,
+      "transactions24" : 51604,
+      "volume" : 519678101251593
+    },
+    "1559130056" : {
+      "mempoolTransactions" : 1102,
+      "priceUsd" : 442.619,
+      "priceUsdChange" : 2.68211,
+      "transactionFeeUsd" : 0.00121277606,
+      "transactions" : 272582710,
+      "transactions24" : 53160,
+      "volume" : 766918437133254
+    },
+    "1559130653" : {
+      "mempoolTransactions" : 1427,
+      "priceUsd" : 441.974,
+      "priceUsdChange" : 2.28848,
+      "transactionFeeUsd" : 0.00121100876,
+      "transactions" : 272582710,
+      "transactions24" : 51761,
+      "volume" : 756889737010454
+    },
+    "1559130708" : {
+      "mempoolTransactions" : 1458,
+      "priceUsd" : 441.974,
+      "priceUsdChange" : 2.28848,
+      "transactionFeeUsd" : 0.00121100876,
+      "transactions" : 272582710,
+      "transactions24" : 51761,
+      "volume" : 756889737010454
+    },
+    "1559130793" : {
+      "mempoolTransactions" : 1509,
+      "priceUsd" : 441.974,
+      "priceUsdChange" : 2.28848,
+      "transactionFeeUsd" : 0.00121100876,
+      "transactions" : 272582710,
+      "transactions24" : 51761,
+      "volume" : 756889737010454
+    },
+    "1559130853" : {
+      "mempoolTransactions" : 1554,
+      "priceUsd" : 441.974,
+      "priceUsdChange" : 2.28848,
+      "transactionFeeUsd" : 0.00121100876,
+      "transactions" : 272582710,
+      "transactions24" : 51761,
+      "volume" : 756889737010454
+    },
+    "1559131230" : {
+      "mempoolTransactions" : 1718,
+      "priceUsd" : 441.178,
+      "priceUsdChange" : 1.71019,
+      "transactionFeeUsd" : 0.00120882772,
+      "transactions" : 272582710,
+      "transactions24" : 51761,
+      "volume" : 756889737010454
+    },
+    "1559132162" : {
+      "mempoolTransactions" : 60,
+      "priceUsd" : 443.647,
+      "priceUsdChange" : 2.46909,
+      "transactionFeeUsd" : 0.00121559278,
+      "transactions" : 272584886,
+      "transactions24" : 53118,
+      "volume" : 771072655571147
+    }
+  },
+  "info" : {
+    "mempoolTransactions" : 76,
+    "priceUsd" : 443.647,
+    "priceUsdChange" : 2.46909,
+    "transactionFeeUsd" : 0.00121559278,
+    "transactions" : 272584886,
+    "transactions24" : 53118,
+    "volume" : 771072655571147
+  },
+  "time" : 1559132191
+}
